@@ -220,12 +220,12 @@ dependencies {
 
 ## About Me
 
-**Email** : droidlover@126.com
+**Email** : guimingxing@163.com
 
-**XDroid交流群**：153569290
+**Android学习交流群**：413893967
 
-**XDroid MVC版本**：[XDroid](https://github.com/limedroid/XDroid)
 
-若您在使用过程中遇到任何问题，欢迎加入 **153569290** 群或者是邮件反馈，谢谢您的关注。**XDroidMvp**会持续维护，如果喜欢，记得star fork。
+
+若您在使用过程中遇到任何问题，欢迎加入 **413893967** 群或者是邮件反馈，谢谢您的关注。**XDroidMvp**会持续维护，如果喜欢，记得star fork。
 
 
